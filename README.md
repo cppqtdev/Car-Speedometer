@@ -1,7 +1,7 @@
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://avatars.githubusercontent.com/u/108173159?s=400&u=7aa6f3cded4e1eceabae2f86c27aeeb3931538b4&v=4" /></a>
+  ![Car Dashboard.gif…](https://github.com/cppqtdev/Car-Gauge-/blob/main/Car%20Dashboard%20Guage.gif)
 </p>
 
 <h3 align='center'>
@@ -23,9 +23,6 @@
   <a href="mailto:akshworkamil@gmail.com?subject= Hi Aksh Singh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-![Car Dashboard.gif…](https://github.com/cppqtdev/Car-Gauge-/blob/main/Car%20Dashboard%20Guage.gif)
-
 
 # Car-Gauge-
 Dynamic Car Dashboard Gauge with Qt QML
