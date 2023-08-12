@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gauge.qml</file>
+        <file>img/background.svg</file>
+        <file>img/needle.svg</file>
+        <file>img/tickmark.svg</file>
+        <file>img/Rectangle 4.svg</file>
+        <file>Gauge2.qml</file>
+        <file>img/Ellipse 6.svg</file>
+        <file>img/Subtract.svg</file>
+        <file>img/sub.svg</file>
+        <file>img/Ellipse 1.svg</file>
+        <file>img/ring.svg</file>
+        <file>img/cirlcle.svg</file>
+        <file>img/Ellipse 5.svg</file>
+        <file>img/maxLimit.svg</file>
+    </qresource>
+</RCC>

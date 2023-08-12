@@ -1,0 +1,19 @@
+LICENSE: 
+
+Use free for anything you want as long as you mention:
+ 
+Marko Mattila, marko.a.mattila@gmail.com 
+
+as an author. Also note that some bits might originate from Qt documentation.
+
+CIRCULAR GAUGE EXAMPLE
+
+Gauge example shows how you can create a custom style for CircularGauge in QML.
+
+VIDEO:
+
+You can check how this example works from the video:
+
+https://youtu.be/2EELMhsc69I
+
+
