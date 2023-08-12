@@ -1,8 +1,6 @@
 
 
-<p align='center'>
   ![Car Dashboard.gif…](https://github.com/cppqtdev/Car-Gauge-/blob/main/Car%20Dashboard%20Guage.gif)
-</p>
 
 <h3 align='center'>
   👩‍💻 Aksh Singh 👩‍💻
